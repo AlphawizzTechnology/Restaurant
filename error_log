@@ -1,0 +1,12 @@
+[22-Jan-2020 10:52:09 Etc/GMT] PHP Fatal error:  Redefinition of parameter $p in /home/alphafk6/public_html/Doctor/application/models/Api/AppointmentApiModel.php on line 46
+[22-Jan-2020 10:53:56 Etc/GMT] PHP Fatal error:  Redefinition of parameter $p in /home/alphafk6/public_html/Doctor/application/models/Api/AppointmentApiModel.php on line 46
+[25-Jan-2020 11:35:02 Etc/GMT] PHP Fatal error:  Illegal offset type in /home/alphafk6/public_html/Doctor/application/controllers/Api/Banner.php on line 21
+[29-Jan-2020 06:09:11 Etc/GMT] PHP Fatal error:  Cannot use empty array elements in arrays in /home/alphafk6/public_html/Doctor/application/controllers/Api/Patients.php on line 65
+[29-Jan-2020 06:09:27 Etc/GMT] PHP Fatal error:  Cannot use empty array elements in arrays in /home/alphafk6/public_html/Doctor/application/controllers/Api/Patients.php on line 65
+[29-Jan-2020 06:09:30 Etc/GMT] PHP Fatal error:  Cannot use empty array elements in arrays in /home/alphafk6/public_html/Doctor/application/controllers/Api/Patients.php on line 65
+[29-Jan-2020 06:23:32 Etc/GMT] PHP Fatal error:  Cannot use empty array elements in arrays in /home/alphafk6/public_html/Doctor/application/controllers/Api/Patients.php on line 65
+[29-Jan-2020 06:24:33 Etc/GMT] PHP Fatal error:  Cannot use empty array elements in arrays in /home/alphafk6/public_html/Doctor/application/controllers/Api/Patients.php on line 65
+[29-Jan-2020 06:25:34 Etc/GMT] PHP Fatal error:  Cannot use empty array elements in arrays in /home/alphafk6/public_html/Doctor/application/controllers/Api/Patients.php on line 65
+[26-Feb-2020 09:00:48 Etc/GMT] PHP Warning:  session_write_close(): Cannot call session save handler in a recursive manner in Unknown on line 0
+[26-Feb-2020 09:00:48 Etc/GMT] PHP Warning:  session_write_close(): Failed to write session data using user defined save handler. (session.save_path: /tmp) in Unknown on line 0
+[02-Mar-2020 11:26:38 Etc/GMT] PHP Fatal error:  require_once(): Failed opening required './lib/config_paytm.php' (include_path='.:/opt/alt/php71/usr/share/pear') in /home/alphafk6/public_html/Doctor/application/controllers/Api/Payment.php on line 30
